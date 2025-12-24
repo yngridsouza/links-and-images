@@ -1,1 +1,1 @@
-practice html about links and images
+practicing links and images
